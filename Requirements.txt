@@ -1,0 +1,5 @@
+Requirements :-
+1)numpy
+2)matplotlib
+3)Tensorflow
+(The program requires an active Internet connection to download the MNIST dataset)
